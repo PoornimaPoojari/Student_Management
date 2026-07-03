@@ -1,0 +1,1 @@
+print("total marks of the student",90)
