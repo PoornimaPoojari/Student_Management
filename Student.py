@@ -1,1 +1,2 @@
-print("Student name")
+print("Student details")
+print("Name")
